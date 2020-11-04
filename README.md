@@ -1,2 +1,2 @@
 # Python-Project
-a database composed of data structures to parse through inputted information. Multiple functions were implemented to access, order, store and handle the application of data.
+a program composed of user-defined data structures used to parse through inputted information and sort into specific categories. Multiple functions were implemented to access, order, store and handle the application of data.
